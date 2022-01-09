@@ -22,12 +22,12 @@
     border-style: hidden;
     align-items: center;
     align-content: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 .scenario-text-input{
     text-align: center;
-    width: 800px;
+    width: 900px;
     height: fit-content;
     border-style: hidden;
     background-color: #fcf2c9;
@@ -59,7 +59,7 @@
     height: 150px;
     width: 150px;
     border-radius: 10px;
-    padding-top: 20px;
+    /* padding-top: 20px; */
 }
 .checkbox{
     height: 20px;
